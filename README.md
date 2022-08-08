@@ -45,7 +45,7 @@
 ## How to set up/deploy.
 
 </p>
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/captainvcmusic/Khzn-Robot"> <img src="https://te.legra.ph/file/749aea54ef254995a201e.jpg" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/captainvcmusic/Khzn-Robot"> <"img src="https://te.legra.ph/file/4532aa532d50bea527f3f.jpg" width="220" height="38.45"/></a></p>
 
 ## Setting up the bot (Read this before trying to use!):
 
